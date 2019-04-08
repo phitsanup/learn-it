@@ -19,6 +19,7 @@
 * Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning <https://www.coursera.org/learn/introduction-tensorflow>
 * Intro to TensorFlow for Deep Learning byTensorFlow <https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187>
 * <https://www.youtube.com/user/prasertcbs/>
+* Intro to SQL for Data Science <https://www.datacamp.com/courses/intro-to-sql-for-data-science>
 
 ## Soruce of Document
 
