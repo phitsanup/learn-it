@@ -15,11 +15,11 @@ Udemy | <https://www.udemy.com/>
 Microsoft AI School | <https://aischool.microsoft.com/en-us/home>
 VMware HOL Online | <https://labs.hol.vmware.com/HOL/>
 
+
 ## Source of Course
 Name | URL
 -----|------
 Start Training on Machine Learning with AWS | <https://aws.amazon.com/training/learning-paths/machine-learning/>
-
 
 
 ## Soruce of Document
