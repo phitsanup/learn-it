@@ -22,3 +22,5 @@
 ## Soruce of Document
 
 * PowerShell Documentation <https://docs.microsoft.com/en-us/powershell/>
+* ProgrammingExpertwithPython.pdf <https://isan.msu.ac.th/suchart/Python/ProgrammingExpertwithPython.pdf>
+* JavaConcepts <http://it.e-tech.ac.th/poohdevil/JavaConcepts/>
