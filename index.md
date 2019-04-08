@@ -12,3 +12,17 @@ Alison | <https://alison.com/learn/information-technology>
 Microsoft Learn | <https://docs.microsoft.com/en-us/learn/>
 VMware Education | <http://mylearn.vmware.com/portals/www/mL.cfm?menu=topfreecourses>
 Udemy | <https://www.udemy.com/>
+Microsoft AI School | <https://aischool.microsoft.com/en-us/home>
+VMware HOL Online | <https://labs.hol.vmware.com/HOL/>
+
+## Source of Course
+Name | URL
+-----|------
+Start Training on Machine Learning with AWS | <https://aws.amazon.com/training/learning-paths/machine-learning/>
+
+
+
+## Soruce of Document
+Name | URL
+-----|------
+PowerShell Documentation | <https://docs.microsoft.com/en-us/powershell/>
