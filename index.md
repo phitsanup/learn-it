@@ -1,5 +1,5 @@
 ## Source of IT Learning
-
+----- | -----
 Coursera | <https://www.coursera.org/>
 EdX | <https://www.edx.org/>
 OEDb | <http://oedb.org/open/>
@@ -15,10 +15,10 @@ VMware HOL Online | <https://labs.hol.vmware.com/HOL/>
 
 
 ## Source of Course
-
+----- | -----
 Start Training on Machine Learning with AWS | <https://aws.amazon.com/training/learning-paths/machine-learning/>
 
 
 ## Soruce of Document
-
+----- | -----
 PowerShell Documentation | <https://docs.microsoft.com/en-us/powershell/>
