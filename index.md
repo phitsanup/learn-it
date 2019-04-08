@@ -17,12 +17,12 @@ VMware HOL Online | <https://labs.hol.vmware.com/HOL/>
 
 
 ## Source of Course
-Name | URL
+Course | URL
 ----------|----------
 Start Training on Machine Learning with AWS | <https://aws.amazon.com/training/learning-paths/machine-learning/>
 
 
 ## Soruce of Document
-Name | URL
+Document | URL
 ----------|----------
 PowerShell Documentation | <https://docs.microsoft.com/en-us/powershell/>
