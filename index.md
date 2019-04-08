@@ -16,7 +16,8 @@
 ## Source of Course
 
 * Start Training on Machine Learning with AWS <https://aws.amazon.com/training/learning-paths/machine-learning/>
-
+* Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning <https://www.coursera.org/learn/introduction-tensorflow>
+* Intro to TensorFlow for Deep Learning byTensorFlow <https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187>
 
 ## Soruce of Document
 
