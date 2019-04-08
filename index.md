@@ -11,6 +11,7 @@
 * Udemy <https://www.udemy.com/>
 * Microsoft AI School <https://aischool.microsoft.com/en-us/home>
 * VMware HOL Online <https://labs.hol.vmware.com/HOL/>
+* Microsoft Professional Program <https://academy.microsoft.com/en-us/professional-program/>
 
 
 ## Source of Course
