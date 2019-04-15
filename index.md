@@ -30,6 +30,7 @@
 * <https://www.youtube.com/user/prasertcbs/>
 * Intro to SQL for Data Science <https://www.datacamp.com/courses/intro-to-sql-for-data-science>
 * การเขียนโปรแกรมเพื่อการประมวลผลภาษาธรรมชาติ <https://attapol.github.io/programming>
+* Introduction to Machine Learning for Coders! <http://course18.fast.ai/ml.html>
 
 ## Soruce of Document
 
