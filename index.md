@@ -12,6 +12,7 @@
 * Microsoft AI School <https://aischool.microsoft.com/en-us/home>
 * VMware HOL Online <https://labs.hol.vmware.com/HOL/>
 * Microsoft Professional Program <https://academy.microsoft.com/en-us/professional-program/>
+* Machine Learning Crash Course <https://developers.google.com/machine-learning/crash-course/>
 
 
 ## Source of Course
@@ -21,6 +22,7 @@
 * Intro to TensorFlow for Deep Learning byTensorFlow <https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187>
 * <https://www.youtube.com/user/prasertcbs/>
 * Intro to SQL for Data Science <https://www.datacamp.com/courses/intro-to-sql-for-data-science>
+* การเขียนโปรแกรมเพื่อการประมวลผลภาษาธรรมชาติ <https://attapol.github.io/programming>
 
 ## Soruce of Document
 
