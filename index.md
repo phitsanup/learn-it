@@ -20,6 +20,7 @@
 * hackerrank <https://www.hackerrank.com/>
 * codesignal <https://codesignal.com/>
 * Upskill <https://upskillcourses.com/>
+* แหล่งเรียนรู้ด้านคอมพิวเตอร์ ฟรี (เน้นภาษาไทย) <https://github.com/adminho/learning-it>
 
 
 ## Source of Course
