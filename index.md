@@ -34,6 +34,8 @@
 * Intro to SQL for Data Science <https://www.datacamp.com/courses/intro-to-sql-for-data-science>
 * การเขียนโปรแกรมเพื่อการประมวลผลภาษาธรรมชาติ <https://attapol.github.io/programming>
 * Introduction to Machine Learning for Coders! <http://course18.fast.ai/ml.html>
+* เขียนโปรแกรมด้วยภาษาไพธอน 3 <https://www.youtube.com/playlist?list=PLoTScYm9O0GH4YQs9t4tf2RIYolHt_YwW>
+* Learn Kubernetes Basics <https://kubernetes.io/docs/tutorials/kubernetes-basics/>
 
 ## Soruce of Document
 
