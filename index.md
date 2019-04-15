@@ -21,6 +21,8 @@
 * codesignal <https://codesignal.com/>
 * Upskill <https://upskillcourses.com/>
 * แหล่งเรียนรู้ด้านคอมพิวเตอร์ ฟรี (เน้นภาษาไทย) <https://github.com/adminho/learning-it>
+* Data Scientist แบบเข้าใจง่ายและสนุกจาก Siraj <https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A>
+* <https://www.skooldio.com/>
 
 
 ## Source of Course
