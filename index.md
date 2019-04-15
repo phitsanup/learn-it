@@ -13,6 +13,13 @@
 * VMware HOL Online <https://labs.hol.vmware.com/HOL/>
 * Microsoft Professional Program <https://academy.microsoft.com/en-us/professional-program/>
 * Machine Learning Crash Course <https://developers.google.com/machine-learning/crash-course/>
+* Google AI <https://ai.google/education/>
+* Class Central <https://www.classcentral.com/>
+* freecodecamp <https://www.freecodecamp.org/>
+* codewars <https://www.codewars.com/>
+* hackerrank <https://www.hackerrank.com/>
+* codesignal <https://codesignal.com/>
+* Upskill <https://upskillcourses.com/>
 
 
 ## Source of Course
