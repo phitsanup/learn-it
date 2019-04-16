@@ -41,6 +41,7 @@
 * Python สำหรับทุกคน เริ่มตั้งแต่ 0-100 (TH) <https://datarockie.com/p/python-for-non-programmer>
 * เทคนิคการทำ PowerPoint (TH) <https://datarockie.com/p/powerpoint>
 * วิเคราะห์และแสดงผลข้อมูลด้วย Excel (Eng) <https://www.edx.org/course/analyzing-and-visualizing-data-with-excel-2>
+* Intro to Data Science <https://www.udacity.com/course/intro-to-data-science--ud359>
 
 ## Source of Document
 
