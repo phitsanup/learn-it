@@ -47,6 +47,7 @@
 * PowerShell Documentation <https://docs.microsoft.com/en-us/powershell/>
 * ProgrammingExpertwithPython.pdf <https://isan.msu.ac.th/suchart/Python/ProgrammingExpertwithPython.pdf>
 * JavaConcepts <http://it.e-tech.ac.th/poohdevil/JavaConcepts/>
+* ML Resources <https://sgfin.github.io/learning-resources/>
 
 ## Source of Data
 * <https://archive.ics.uci.edu/ml/index.php>
