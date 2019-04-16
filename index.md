@@ -36,6 +36,11 @@
 * Introduction to Machine Learning for Coders! <http://course18.fast.ai/ml.html>
 * เขียนโปรแกรมด้วยภาษาไพธอน 3 <https://www.youtube.com/playlist?list=PLoTScYm9O0GH4YQs9t4tf2RIYolHt_YwW>
 * Learn Kubernetes Basics <https://kubernetes.io/docs/tutorials/kubernetes-basics/>
+* คณิตศาสตร์พื้นฐานสำหรับ Data Science (Eng) <https://www.coursera.org/learn/datasciencemathskills>
+* SQL สำหรับ Data Science (Eng) <https://www.coursera.org/learn/sql-for-data-science>
+* Python สำหรับทุกคน เริ่มตั้งแต่ 0-100 (TH) <https://datarockie.com/p/python-for-non-programmer>
+* เทคนิคการทำ PowerPoint (TH) <https://datarockie.com/p/powerpoint>
+* วิเคราะห์และแสดงผลข้อมูลด้วย Excel (Eng) <https://www.edx.org/course/analyzing-and-visualizing-data-with-excel-2>
 
 ## Source of Document
 
