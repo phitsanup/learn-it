@@ -37,8 +37,13 @@
 * เขียนโปรแกรมด้วยภาษาไพธอน 3 <https://www.youtube.com/playlist?list=PLoTScYm9O0GH4YQs9t4tf2RIYolHt_YwW>
 * Learn Kubernetes Basics <https://kubernetes.io/docs/tutorials/kubernetes-basics/>
 
-## Soruce of Document
+## Source of Document
 
 * PowerShell Documentation <https://docs.microsoft.com/en-us/powershell/>
 * ProgrammingExpertwithPython.pdf <https://isan.msu.ac.th/suchart/Python/ProgrammingExpertwithPython.pdf>
 * JavaConcepts <http://it.e-tech.ac.th/poohdevil/JavaConcepts/>
+
+## Source of Data
+* <https://archive.ics.uci.edu/ml/index.php>
+* <https://www.kaggle.com/>
+
