@@ -45,6 +45,7 @@
 * เทคนิคการทำ PowerPoint (TH) <https://datarockie.com/p/powerpoint>
 * วิเคราะห์และแสดงผลข้อมูลด้วย Excel (Eng) <https://www.edx.org/course/analyzing-and-visualizing-data-with-excel-2>
 * Intro to Data Science <https://www.udacity.com/course/intro-to-data-science--ud359>
+Intro to R (2018) <https://datarockie.com/p/r-programming>
 
 ## Source of Document
 
