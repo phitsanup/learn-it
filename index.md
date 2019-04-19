@@ -23,6 +23,9 @@
 * แหล่งเรียนรู้ด้านคอมพิวเตอร์ ฟรี (เน้นภาษาไทย) <https://github.com/adminho/learning-it>
 * Data Scientist แบบเข้าใจง่ายและสนุกจาก Siraj <https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A>
 * <https://www.skooldio.com/>
+* Data Science Central <https://www.datasciencecentral.com>
+* Analytics Vidhya https://www.analyticsvidhya.com>
+* DataCamp https://www.datacamp.com>
 
 
 ## Source of Course
