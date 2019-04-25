@@ -53,6 +53,7 @@ Intro to R (2018) <https://datarockie.com/p/r-programming>
 * ProgrammingExpertwithPython.pdf <https://isan.msu.ac.th/suchart/Python/ProgrammingExpertwithPython.pdf>
 * JavaConcepts <http://it.e-tech.ac.th/poohdevil/JavaConcepts/>
 * ML Resources <https://sgfin.github.io/learning-resources/>
+* MS PowerBI <https://docs.microsoft.com/en-us/power-bi/>
 
 ## Source of Data
 * <https://archive.ics.uci.edu/ml/index.php>
