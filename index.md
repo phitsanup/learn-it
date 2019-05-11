@@ -26,6 +26,7 @@
 * Data Science Central <https://www.datasciencecentral.com>
 * Analytics Vidhya https://www.analyticsvidhya.com>
 * DataCamp https://www.datacamp.com>
+* Azure Tips and Trick <https://microsoft.github.io/AzureTipsAndTricks/>
 
 
 ## Source of Course
